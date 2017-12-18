@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+package GenericTranscoder;
+
+service Transcoder {
+	rpc Translate(TranslationRequest) returns (TranslationReply) {}
+}
+
+Message TranslationRequest
+{
+}
+
+Message TranslationReply
+{
+}
