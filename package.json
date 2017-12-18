@@ -1,0 +1,14 @@
+{
+  "name": "transcoder-protos",
+  "version": "0.1.0",
+  "description": "testing",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hyigle/test.git"
+  },
+  "keywords": [
+    "transcoder-protos"
+  ],
+  "author": "Parker",
+  "license": "UNLICENSED"
+}
